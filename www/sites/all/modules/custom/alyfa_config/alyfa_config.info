@@ -1,0 +1,4 @@
+name = "ALYFA CONFIG"
+description = Alyfa config module. This module is responsible for general alyfa config
+package = "ALYFA Development"
+core = 7.x

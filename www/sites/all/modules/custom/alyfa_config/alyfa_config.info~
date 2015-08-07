@@ -1,0 +1,4 @@
+name = "FLYNT CONFIG"
+description = Flynt config module. This module is responsible for general flynt config
+package = "FLYNT Development"
+core = 7.x
