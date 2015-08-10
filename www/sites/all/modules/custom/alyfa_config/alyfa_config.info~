@@ -1,4 +1,4 @@
-name = "FLYNT CONFIG"
-description = Flynt config module. This module is responsible for general flynt config
-package = "FLYNT Development"
+name = "ALYFA CONFIG"
+description = Alyfa config module. This module is responsible for general Alyfa config
+package = "ALYFA Development"
 core = 7.x
